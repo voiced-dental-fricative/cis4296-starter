@@ -11,6 +11,7 @@ int main(int argc, char** argv){
     print("%d\n", x);
     x++;
   }
-  
+
+  printf("all done");
   return 0;
 }
